@@ -1,6 +1,13 @@
 
-.images-container, .jumbotron, .buttons{
+.content-container, .jumbotron, .buttons{
 	text-align: center;
 }
+
+.buttons{
+	margin-bottom: 50px;
+}
+
+
+
 
 
